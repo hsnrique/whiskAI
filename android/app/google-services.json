@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "276240811079",
+    "project_id": "whiskai",
+    "storage_bucket": "whiskai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276240811079:android:e048052daf93371e0cdd62",
+        "android_client_info": {
+          "package_name": "com.spacedsoft.whiskey_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276240811079-t8u9bn9blbjih2ui54qk5uu4vqr1b13r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBBL5m53H3x0ljZz2rXmy6Fv8JTgyhXr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276240811079-t8u9bn9blbjih2ui54qk5uu4vqr1b13r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
